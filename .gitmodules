@@ -1,0 +1,15 @@
+[submodule "CryptoTrade"]
+	path = CryptoTrade
+	url = git@github.com:heavy163/CryptoTrade.git
+[submodule "tsai_pipeline"]
+	path = tsai_pipeline
+	url = git@github.com:heavy163/tsai_pipeline.git
+[submodule "pond"]
+	path = pond
+	url = git@github.com:heavy163/pond.git
+[submodule "fangyang"]
+	path = fangyang
+	url = git@github.com:heavy163/fangyang.git
+[submodule "qe_gm"]
+	path = qe_gm
+	url = git@github.com:Quant-Edge/qe_gm.git
